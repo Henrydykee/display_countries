@@ -1,0 +1,2747 @@
+{
+    "AFG": {
+        "code": "AFG",
+        "description": "Afghanistan",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "ALB": {
+        "code": "ALB",
+        "description": "Albania",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "DZA": {
+        "code": "DZA",
+        "description": "Algeria",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "AND": {
+        "code": "AND",
+        "description": "Andorra",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "AGO": {
+        "code": "AGO",
+        "description": "Angola",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "ATG": {
+        "code": "ATG",
+        "description": "Antigua and Barbuda",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "ARG": {
+        "code": "ARG",
+        "description": "Argentina",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "ARM": {
+        "code": "ARM",
+        "description": "Armenia",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "AUS": {
+        "code": "AUS",
+        "description": "Australia",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "AUT": {
+        "code": "AUT",
+        "description": "Austria",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "AZE": {
+        "code": "AZE",
+        "description": "Azerbaijan",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "BHS": {
+        "code": "BHS",
+        "description": "Bahamas",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "BHR": {
+        "code": "BHR",
+        "description": "Bahrain",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "BHR_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "BGD": {
+        "code": "BGD",
+        "description": "Bangladesh",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "BRB": {
+        "code": "BRB",
+        "description": "Barbados",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "BLR": {
+        "code": "BLR",
+        "description": "Belarus",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "BEL": {
+        "code": "BEL",
+        "description": "Belgium",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "BLZ": {
+        "code": "BLZ",
+        "description": "Belize",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "BEN": {
+        "code": "BEN",
+        "description": "Benin",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "BTN": {
+        "code": "BTN",
+        "description": "Bhutan",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "BOL": {
+        "code": "BOL",
+        "description": "Bolivia (Plurinational State of)",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "BIH": {
+        "code": "BIH",
+        "description": "Bosnia and Herzegovina",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "BWA": {
+        "code": "BWA",
+        "description": "Botswana",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "BRA": {
+        "code": "BRA",
+        "description": "Brazil",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "BRN": {
+        "code": "BRN",
+        "description": "Brunei Darussalam",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "BGR": {
+        "code": "BGR",
+        "description": "Bulgaria",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "BFA": {
+        "code": "BFA",
+        "description": "Burkina Faso",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "BDI": {
+        "code": "BDI",
+        "description": "Burundi",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "CPV": {
+        "code": "CPV",
+        "description": "Cabo Verde",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "KHM": {
+        "code": "KHM",
+        "description": "Cambodia",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "CMR": {
+        "code": "CMR",
+        "description": "Cameroon",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "CAN": {
+        "code": "CAN",
+        "description": "Canada",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "CAF": {
+        "code": "CAF",
+        "description": "Central African Republic",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "TCD": {
+        "code": "TCD",
+        "description": "Chad",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "CHL": {
+        "code": "CHL",
+        "description": "Chile",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "CHN": {
+        "code": "CHN",
+        "description": "China",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "COL": {
+        "code": "COL",
+        "description": "Colombia",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "COM": {
+        "code": "COM",
+        "description": "Comoros",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "COG": {
+        "code": "COG",
+        "description": "Congo",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "COD": {
+        "code": "COD",
+        "description": "Congo, Democratic Republic of the",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "CRI": {
+        "code": "CRI",
+        "description": "Costa Rica",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "HRV": {
+        "code": "HRV",
+        "description": "Croatia",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "CUB": {
+        "code": "CUB",
+        "description": "Cuba",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "CYP": {
+        "code": "CYP",
+        "description": "Cyprus",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "CZE": {
+        "code": "CZE",
+        "description": "Czechia",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "CIV": {
+        "code": "CIV",
+        "description": "Côte d'Ivoire",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "DNK": {
+        "code": "DNK",
+        "description": "Denmark",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "DJI": {
+        "code": "DJI",
+        "description": "Djibouti",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "DMA": {
+        "code": "DMA",
+        "description": "Dominica",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "DOM": {
+        "code": "DOM",
+        "description": "Dominican Republic",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "ECU": {
+        "code": "ECU",
+        "description": "Ecuador",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "EGY": {
+        "code": "EGY",
+        "description": "Egypt",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "EGY_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "SLV": {
+        "code": "SLV",
+        "description": "El Salvador",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "GNQ": {
+        "code": "GNQ",
+        "description": "Equatorial Guinea",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "ERI": {
+        "code": "ERI",
+        "description": "Eritrea",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "EST": {
+        "code": "EST",
+        "description": "Estonia",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "SWZ": {
+        "code": "SWZ",
+        "description": "Eswatini",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "ETH": {
+        "code": "ETH",
+        "description": "Ethiopia",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "FJI": {
+        "code": "FJI",
+        "description": "Fiji",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "FIN": {
+        "code": "FIN",
+        "description": "Finland",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "FRA": {
+        "code": "FRA",
+        "description": "France",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "GAB": {
+        "code": "GAB",
+        "description": "Gabon",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "GMB": {
+        "code": "GMB",
+        "description": "Gambia",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "GEO": {
+        "code": "GEO",
+        "description": "Georgia",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "DEU": {
+        "code": "DEU",
+        "description": "Germany",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "GHA": {
+        "code": "GHA",
+        "description": "Ghana",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GHA_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            },
+            {
+                "type": "GHA_SSNIT",
+                "description": "SSNIT",
+                "singleSide": false,
+                "facialRecognition": true
+            },
+            {
+                "type": "GHA_VOTER_ID",
+                "description": "Voter's Card",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GHA_DL",
+                "description": "Driving License",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "GRC": {
+        "code": "GRC",
+        "description": "Greece",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "GRD": {
+        "code": "GRD",
+        "description": "Grenada",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "GTM": {
+        "code": "GTM",
+        "description": "Guatemala",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "GIN": {
+        "code": "GIN",
+        "description": "Guinea",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "GNB": {
+        "code": "GNB",
+        "description": "Guinea-Bissau",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "GUY": {
+        "code": "GUY",
+        "description": "Guyana",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "HTI": {
+        "code": "HTI",
+        "description": "Haiti",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "VAT": {
+        "code": "VAT",
+        "description": "Holy See",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "HND": {
+        "code": "HND",
+        "description": "Honduras",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "HUN": {
+        "code": "HUN",
+        "description": "Hungary",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "ISL": {
+        "code": "ISL",
+        "description": "Iceland",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "IND": {
+        "code": "IND",
+        "description": "India",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "IND_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "IDN": {
+        "code": "IDN",
+        "description": "Indonesia",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "IRN": {
+        "code": "IRN",
+        "description": "Iran (Islamic Republic of)",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "IRQ": {
+        "code": "IRQ",
+        "description": "Iraq",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "IRL": {
+        "code": "IRL",
+        "description": "Ireland",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "ISR": {
+        "code": "ISR",
+        "description": "Israel",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "ITA": {
+        "code": "ITA",
+        "description": "Italy",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "JAM": {
+        "code": "JAM",
+        "description": "Jamaica",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "JPN": {
+        "code": "JPN",
+        "description": "Japan",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "JOR": {
+        "code": "JOR",
+        "description": "Jordan",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "KAZ": {
+        "code": "KAZ",
+        "description": "Kazakhstan",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "KEN": {
+        "code": "KEN",
+        "description": "Kenya",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "KEN_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "KIR": {
+        "code": "KIR",
+        "description": "Kiribati",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "PRK": {
+        "code": "PRK",
+        "description": "Korea (Democratic People's Republic of)",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "KOR": {
+        "code": "KOR",
+        "description": "Korea, Republic of",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "RKS": {
+        "code": "RKS",
+        "description": "Kosovo",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "KWT": {
+        "code": "KWT",
+        "description": "Kuwait",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "KWT_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "KGZ": {
+        "code": "KGZ",
+        "description": "Kyrgyzstan",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "LAO": {
+        "code": "LAO",
+        "description": "Lao People's Democratic Republic",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "LVA": {
+        "code": "LVA",
+        "description": "Latvia",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "LBN": {
+        "code": "LBN",
+        "description": "Lebanon",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "LSO": {
+        "code": "LSO",
+        "description": "Lesotho",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "LBR": {
+        "code": "LBR",
+        "description": "Liberia",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "LBY": {
+        "code": "LBY",
+        "description": "Libya",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "LIE": {
+        "code": "LIE",
+        "description": "Liechtenstein",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "LTU": {
+        "code": "LTU",
+        "description": "Lithuania",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "LUX": {
+        "code": "LUX",
+        "description": "Luxembourg",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "MDG": {
+        "code": "MDG",
+        "description": "Madagascar",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "MWI": {
+        "code": "MWI",
+        "description": "Malawi",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "MYS": {
+        "code": "MYS",
+        "description": "Malaysia",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "MDV": {
+        "code": "MDV",
+        "description": "Maldives",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "MLI": {
+        "code": "MLI",
+        "description": "Mali",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "MLT": {
+        "code": "MLT",
+        "description": "Malta",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "MHL": {
+        "code": "MHL",
+        "description": "Marshall Islands",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "MRT": {
+        "code": "MRT",
+        "description": "Mauritania",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "MUS": {
+        "code": "MUS",
+        "description": "Mauritius",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "MEX": {
+        "code": "MEX",
+        "description": "Mexico",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "FSM": {
+        "code": "FSM",
+        "description": "Micronesia (Federated States of)",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "MDA": {
+        "code": "MDA",
+        "description": "Moldova, Republic of",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "MCO": {
+        "code": "MCO",
+        "description": "Monaco",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "MNG": {
+        "code": "MNG",
+        "description": "Mongolia",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "MNE": {
+        "code": "MNE",
+        "description": "Montenegro",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "MAR": {
+        "code": "MAR",
+        "description": "Morocco",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "MOZ": {
+        "code": "MOZ",
+        "description": "Mozambique",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "MMR": {
+        "code": "MMR",
+        "description": "Myanmar",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "NAM": {
+        "code": "NAM",
+        "description": "Namibia",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "NRU": {
+        "code": "NRU",
+        "description": "Nauru",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "NPL": {
+        "code": "NPL",
+        "description": "Nepal",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "NLD": {
+        "code": "NLD",
+        "description": "Netherlands",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            },
+            {
+                "type": "NLD_DL",
+                "description": "Driving License",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "NZL": {
+        "code": "NZL",
+        "description": "New Zealand",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "NIC": {
+        "code": "NIC",
+        "description": "Nicaragua",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "NER": {
+        "code": "NER",
+        "description": "Niger",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "NGA": {
+        "code": "NGA",
+        "description": "Nigeria",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            },
+            {
+                "type": "NGA_NIN",
+                "description": "Digital NIN Slip",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "NGA_VOTER_ID",
+                "description": "Voter's Card",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "NGA_DL",
+                "description": "Driving License",
+                "singleSide": true,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "MKD": {
+        "code": "MKD",
+        "description": "North Macedonia",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "NOR": {
+        "code": "NOR",
+        "description": "Norway",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "OMN": {
+        "code": "OMN",
+        "description": "Oman",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "OMN_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "PAK": {
+        "code": "PAK",
+        "description": "Pakistan",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "PAK_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "PLW": {
+        "code": "PLW",
+        "description": "Palau",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "PSE": {
+        "code": "PSE",
+        "description": "Palestine, State of",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "PAN": {
+        "code": "PAN",
+        "description": "Panama",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "PNG": {
+        "code": "PNG",
+        "description": "Papua New Guinea",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "PRY": {
+        "code": "PRY",
+        "description": "Paraguay",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "PER": {
+        "code": "PER",
+        "description": "Peru",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "PHL": {
+        "code": "PHL",
+        "description": "Philippines",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "POL": {
+        "code": "POL",
+        "description": "Poland",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "PRT": {
+        "code": "PRT",
+        "description": "Portugal",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "QAT": {
+        "code": "QAT",
+        "description": "Qatar",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "QAT_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "ROU": {
+        "code": "ROU",
+        "description": "Romania",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "RUS": {
+        "code": "RUS",
+        "description": "Russian Federation",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "RWA": {
+        "code": "RWA",
+        "description": "Rwanda",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "RWA_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "KNA": {
+        "code": "KNA",
+        "description": "Saint Kitts and Nevis",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "LCA": {
+        "code": "LCA",
+        "description": "Saint Lucia",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "VCT": {
+        "code": "VCT",
+        "description": "Saint Vincent and the Grenadines",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "WSM": {
+        "code": "WSM",
+        "description": "Samoa",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "SMR": {
+        "code": "SMR",
+        "description": "San Marino",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "STP": {
+        "code": "STP",
+        "description": "Sao Tome and Principe",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "SAU": {
+        "code": "SAU",
+        "description": "Saudi Arabia",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "SAU_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            },
+            {
+                "type": "SAU_DL",
+                "description": "Driving License",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "SEN": {
+        "code": "SEN",
+        "description": "Senegal",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "SRB": {
+        "code": "SRB",
+        "description": "Serbia",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "SYC": {
+        "code": "SYC",
+        "description": "Seychelles",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "SLE": {
+        "code": "SLE",
+        "description": "Sierra Leone",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "SGP": {
+        "code": "SGP",
+        "description": "Singapore",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "SVK": {
+        "code": "SVK",
+        "description": "Slovakia",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "SVN": {
+        "code": "SVN",
+        "description": "Slovenia",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "SLB": {
+        "code": "SLB",
+        "description": "Solomon Islands",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "SOM": {
+        "code": "SOM",
+        "description": "Somalia",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "ZAF": {
+        "code": "ZAF",
+        "description": "South Africa",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "ZAF_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            },
+            {
+                "type": "ZAF_DL",
+                "description": "Driving License",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "SSD": {
+        "code": "SSD",
+        "description": "South Sudan",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "ESP": {
+        "code": "ESP",
+        "description": "Spain",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "LKA": {
+        "code": "LKA",
+        "description": "Sri Lanka",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "SDN": {
+        "code": "SDN",
+        "description": "Sudan",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "SDN_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            },
+            {
+                "type": "SDN_DL",
+                "description": "Driving License",
+                "singleSide": false,
+                "facialRecognition": true
+            },
+            {
+                "type": "SDN_VL",
+                "description": "Vehicle License",
+                "singleSide": false,
+                "facialRecognition": false
+            }
+        ]
+    },
+    "SUR": {
+        "code": "SUR",
+        "description": "Suriname",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "SWE": {
+        "code": "SWE",
+        "description": "Sweden",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "CHE": {
+        "code": "CHE",
+        "description": "Switzerland",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "SYR": {
+        "code": "SYR",
+        "description": "Syrian Arab Republic",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "TWN": {
+        "code": "TWN",
+        "description": "Taiwan, Province of China",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "TJK": {
+        "code": "TJK",
+        "description": "Tajikistan",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "TZA": {
+        "code": "TZA",
+        "description": "Tanzania, United Republic of",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "THA": {
+        "code": "THA",
+        "description": "Thailand",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "TLS": {
+        "code": "TLS",
+        "description": "Timor-Leste",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "TGO": {
+        "code": "TGO",
+        "description": "Togo",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "TON": {
+        "code": "TON",
+        "description": "Tonga",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "TTO": {
+        "code": "TTO",
+        "description": "Trinidad and Tobago",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "TUN": {
+        "code": "TUN",
+        "description": "Tunisia",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "TUR": {
+        "code": "TUR",
+        "description": "Turkey",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "TKM": {
+        "code": "TKM",
+        "description": "Turkmenistan",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "TUV": {
+        "code": "TUV",
+        "description": "Tuvalu",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "UGA": {
+        "code": "UGA",
+        "description": "Uganda",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "UGA_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "UKR": {
+        "code": "UKR",
+        "description": "Ukraine",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "ARE": {
+        "code": "ARE",
+        "description": "United Arab Emirates",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "UAE_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            },
+            {
+                "type": "UAE_DL",
+                "description": "Driving License",
+                "singleSide": false,
+                "facialRecognition": true
+            },
+            {
+                "type": "UAE_VL",
+                "description": "Vehicle License",
+                "singleSide": false,
+                "facialRecognition": false
+            },
+            {
+                "type": "UAE_VL_PDF",
+                "description": "Vehicle License (Electronic version)",
+                "singleSide": true,
+                "facialRecognition": false
+            },
+            {
+                "type": "UAE_VISA",
+                "description": "Visa",
+                "singleSide": true,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "GBR": {
+        "code": "GBR",
+        "description": "United Kingdom",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            },
+            {
+                "type": "GBR_DL",
+                "description": "Driving License",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "USA": {
+        "code": "USA",
+        "description": "United States of America",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "URY": {
+        "code": "URY",
+        "description": "Uruguay",
+        "documentTypes": [{
+                "type": "PASSPORT",
+                "description": "Passport",
+                "singleSide": true,
+                "facialRecognition": true
+            },
+            {
+                "type": "GENERIC_ID",
+                "description": "National Identity Card",
+                "singleSide": false,
+                "facialRecognition": true
+            }
+        ]
+    },
+    "UZB": {
+        "code": "UZB",
+        "description": "Uzbekistan",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "VUT": {
+        "code": "VUT",
+        "description": "Vanuatu",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "VEN": {
+        "code": "VEN",
+        "description": "Venezuela (Bolivarian Republic of)",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "VNM": {
+        "code": "VNM",
+        "description": "Viet Nam",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "YEM": {
+        "code": "YEM",
+        "description": "Yemen",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "ZMB": {
+        "code": "ZMB",
+        "description": "Zambia",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    },
+    "ZWE": {
+        "code": "ZWE",
+        "description": "Zimbabwe",
+        "documentTypes": [{
+            "type": "PASSPORT",
+            "description": "Passport",
+            "singleSide": true,
+            "facialRecognition": true
+        }]
+    }
+}
